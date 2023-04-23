@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tejas-21-code/Homepage/static/css/main.a3f4714e.css",
+    "main.js": "/Tejas-21-code/Homepage/static/js/main.bd01a3cc.js",
+    "static/media/vector-users-icon.png": "/Tejas-21-code/Homepage/static/media/vector-users-icon.fc7a172d469ca96a6b79.png",
+    "static/media/LOFOAOFaf.png": "/Tejas-21-code/Homepage/static/media/LOFOAOFaf.91236f48cb02156b4e79.png",
+    "index.html": "/Tejas-21-code/Homepage/index.html",
+    "main.a3f4714e.css.map": "/Tejas-21-code/Homepage/static/css/main.a3f4714e.css.map",
+    "main.bd01a3cc.js.map": "/Tejas-21-code/Homepage/static/js/main.bd01a3cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3f4714e.css",
+    "static/js/main.bd01a3cc.js"
+  ]
+}
